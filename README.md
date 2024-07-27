@@ -33,5 +33,5 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dfluppy&hide_progress=true&theme=dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dfluppy&theme=dark)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dfluppy&theme=dark)
 
