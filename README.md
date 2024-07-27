@@ -11,6 +11,7 @@
 ![DBeaver](https://img.shields.io/badge/DBeaver-%2351403B?style=for-the-badge&logo=DBeaver&logoColor=white)
 ![pandas](https://img.shields.io/badge/Pandas%20-%23181152?style=for-the-badge&logo=pandas&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-%23120FFF?style=for-the-badge&logo=opencv&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%231776DA?style=for-the-badge&logo=docker&logoColor=white)
 ![Pytelegrambotapi](https://img.shields.io/badge/PyTelegramBotApi-%2331A2D9?style=for-the-badge)
 ![openpyxl](https://img.shields.io/badge/Openpyxl-%232C7B52?style=for-the-badge)
 ![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup%20-%23833C6A?style=for-the-badge)
@@ -20,6 +21,7 @@
 ![Grpc](https://img.shields.io/badge/Grpc%20-%2339ACB5?style=for-the-badge&logo=grpc&logoColor=white)
 ![PyQt](https://img.shields.io/badge/PyQt%20%2F%20PySide%20-%234BD05A?style=for-the-badge&logo=grpc&logoColor=white)
 ![c#](https://img.shields.io/badge/C%23-%236F2E83?style=for-the-badge&logo=c&logoColor=white)
+
 
 
 
