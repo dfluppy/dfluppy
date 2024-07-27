@@ -1,1 +1,1 @@
-[![Header](https://github.com/dfluppy/dfluppy/blob/main/assets/lin_terminal.gif)](https://github.com/dfluppy)
+[![Header](https://github.com/dfluppy/dfluppy/blob/main/assets/terminal.gif)](https://github.com/dfluppy)
