@@ -23,7 +23,7 @@
 
 
 
-## Контакты
+## Ссылки
 ![Static Badge](https://img.shields.io/badge/Telegram-%232A9DCC?style=for-the-badge&logo=telegram&logoColor=white&labelColor=black&link=https%3A%2F%2Ft.me%2Fdfluppy)
 ![Static Badge](https://img.shields.io/badge/Stepik-%23479147?style=for-the-badge&logo=sahibinden&logoColor=white&labelColor=black&link=https%3A%2F%2Fstepik.org%2Fusers%2F379370080%2Fprofile)
 
