@@ -28,3 +28,10 @@
 ![Static Badge](https://img.shields.io/badge/Stepik-%23479147?style=for-the-badge&logo=sahibinden&logoColor=white&labelColor=black&link=https%3A%2F%2Fstepik.org%2Fusers%2F379370080%2Fprofile)
 
 
+## Немного статистики
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dfluppy&show_icons=true&theme=dark&hide=stars,prs,issues,contribs&rank_icon=github)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dfluppy&hide_progress=true&theme=dark)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dfluppy&theme=dark)]
+
