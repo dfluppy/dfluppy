@@ -4,7 +4,7 @@
 ## Языки, инструменты и технологии
 
 ![Python](https://img.shields.io/badge/python-%23555555?style=for-the-badge&logo=python&logoColor=%23FED141)
-![Django](https://img.shields.io/badge/Django-0F4837?style=for-the-badge&logo=django)
+![FastAPI](https://img.shields.io/badge/Django-0F4837?style=for-the-badge&logo=django)
 ![Ultralytics](https://img.shields.io/badge/Ultralytics-%23BF3DB9?style=for-the-badge&logo=pytorch&logoColor=white)
 ![sqlite](https://img.shields.io/badge/Sqlite-%23555555?style=for-the-badge&logo=sqlite&logoColor=%2379C2EA)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%233E7098?style=for-the-badge&logo=PostgreSQL&logoColor=white)
